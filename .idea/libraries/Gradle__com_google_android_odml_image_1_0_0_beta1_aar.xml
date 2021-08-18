@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.odml:image:1.0.0-beta1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4961e7374ffba6a2805496eff3020a8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/be61ff794d1b81eda369da7c3b3b2653/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/766d1e46f1df61ab515dfaf7eabac1af/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/766d1e46f1df61ab515dfaf7eabac1af/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/766d1e46f1df61ab515dfaf7eabac1af/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.odml/image/1.0.0-beta1/aa9d23e3124a588104fe600f42af0e192f732599/image-1.0.0-beta1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
